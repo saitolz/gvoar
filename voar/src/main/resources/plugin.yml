@@ -1,0 +1,7 @@
+name: LProjeto
+version: '${project.version}'
+main: com.github.derick.lprojeto.LProjeto
+api-version: '1.20'
+commands:
+  voar:
+  ajuda:
